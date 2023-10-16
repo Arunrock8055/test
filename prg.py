@@ -7,3 +7,4 @@ print("This is the fourth line")
 print("new changes")
 for i in range :
     print("hello")
+    print("hello")
