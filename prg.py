@@ -5,3 +5,5 @@ print("This is the fourth line")
 
 #changes
 print("new changes")
+for i in range :
+    print("hello")
